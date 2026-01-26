@@ -1,9 +1,3 @@
-Perfect — here is a **complete, polished, recruiter-safe README.md** that you can **copy-paste as-is** into GitHub.
-No placeholders, no missing sections, no legal risk.
-
----
-
-````md
 # HLS Stream Analyzer
 
 A Bash-based tool for analyzing and reconstructing HTTP Live Streaming (HLS) media streams.
