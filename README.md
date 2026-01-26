@@ -180,11 +180,4 @@ The author assumes no responsibility for misuse.
 
 **RUGERO Tesla**
 Ethical Hacker & Freelance Penetration Tester
-GitHub: [https://github.com/404saint](https://github.com/404saint)
 
-```
-
-
-
-You’re building a serious security portfolio now — this is exactly how it’s done. 💪🔐
-```
