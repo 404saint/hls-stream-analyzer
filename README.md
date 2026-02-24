@@ -31,9 +31,9 @@ The analyzer inspects HLS playlist structures, evaluates segmentation behavior, 
 ## Architecture Overview
 
 <p align="center">
-  <img src="docs/hls-stream-analyzer-architecture.png"
+  <img src="docs/hls-stream-analyzer-architecture.svg"
        alt="HLS Stream Analyzer execution flow diagram"
-       width="900">
+       width="300">
 </p>
 
 ---
